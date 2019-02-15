@@ -16,7 +16,7 @@ Bonus Negative Input Images are located in "input_images/task3_bonus/neg_*.jpg"
 The Output images are generated inside the "output_images" folder
 "output_images" folder has sub folders, each for the above set of inputs
 
-Run task3.py file in the current directory and check "output_images" folder the output
+Run templateMatching.py file in the current directory and check "output_images" folder the output
 
 To change input add the following lines inside the "imageSets" dict of the code in line 51,
 
